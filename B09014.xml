@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for confirming and establishing the administration of the goods and chattels of Sir William Godolphin, Knight, deceased</title>
+            <author>England and Wales. Laws, statutes, etc.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09014</idno>
+            <idno type="STC">Wing E1006A</idno>
+            <idno type="STC">ESTC R176620</idno>
+            <idno type="EEBO-CITATION">62369198</idno>
+            <idno type="OCLC">ocm 62369198</idno>
+            <idno type="VID">187885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187885)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2848:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for confirming and establishing the administration of the goods and chattels of Sir William Godolphin, Knight, deceased</title>
+                  <author>England and Wales. Laws, statutes, etc.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill and the executrix of Thomas Newcomb, deceas'd,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At head of title: Anno decimo Gulielmi III. Regis.</note>
+                  <note>Signed at end: Matth. Johnson, Cler Parliamentor.</note>
+                  <note>Text in black letter.</note>
+                  <note>Reproduction of original in: British Library</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Godolphin, William, --  Sir, 1634?-1696 --  Estate --  Sources.</term>
+               <term>Wills --  England --  Early works to 1800.</term>
+               <term>Decedents' estates --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Sources.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:187885:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal coat of arms</figDesc>
+                  <head>W R</head>
+                  <head>HONI SOIT QVI MAL Y PENSE</head>
+                  <head>DIEV ET MON DROIT</head>
+               </figure>Anno Decimo Gulielmi III. Regis.</head>
+            <head type="sub">
+               <hi>An ACT for Confirming and Eſtabliſhing the Adminiſtra<g ref="char:EOLhyphen"/>tion of the Goods and Chattels of Sir</hi> William Godol<g ref="char:EOLhyphen"/>phin <hi>Knight, deceaſed.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>OST humbly ſhew unto Your moſt Excellent Majeſty, Your moſt Dutiful Subjects, <hi>Francis Godolphin</hi> Eſq; and <hi>Charles Godolphin</hi> Eſq; and <hi>Elizabeth</hi> his Wife (Your ſaid Suppli<g ref="char:EOLhyphen"/>ants <hi>Francis Godolphin,</hi> and <hi>Elizabeth</hi> the Wife of the ſaid <hi>Charles Godolphin,</hi> being Adminiſtrators of the Goods and Chattels of Sir <hi>William Godolphin</hi> Kt. deceaſed) That divers good Laws have been made to prevent the Con<g ref="char:EOLhyphen"/>veying Eſtates of the Subjects of this Realm for the Maintenance and Support of Superſtitious Uſes. And whereas Sir <hi>William Godolphin</hi> Kt. a Subject of this Your Majeſties Kingdom of <hi>England,</hi> who Lived at <hi>Madrid</hi> in the Kingdom of <hi>Spain,</hi> being there ſurrounded by Fryers, Prieſts and Jeſuits as he lay Bedrid, was influenced to conſent to an Act before a Publick Notary, on or about the Thirtieth of <hi>March,</hi> One thouſand ſix hundred ninety ſix, whereby it was ſignified, that Four Perſons named therein <hi>(viz.) Don Mathias de Eſcolar</hi> Abbot of the <hi>Baſillians, Geronimo Guerrero</hi> Procurator General of the Jeſuits, <hi>Don Balthaſar de Cabredo</hi> a Secular Prieſt, and <hi>Don Antonio de Cendoya</hi> a Lawyer, ſhould be his <hi>Te<g ref="char:EOLhyphen"/>ſtamentarios,</hi> which Deſignation is thus explained in the Inſtrument <hi>(viz.)</hi> To the end that as ſoon as he the ſaid Sir <hi>William Godolphin</hi> departed out of this Life, they ſhould Make and Conſtitute his Laſt Will and Teſtament, expreſſing therein the Gifts, Legacies, Foundations of Memories, Good-works, Patronages and other Diſ<g ref="char:EOLhyphen"/>poſitions which he the ſaid Sir <hi>William</hi> had Communicated to them, to be diſpoſed of in ſuch Manner and Form as ſhould appear to them the ſaid <hi>Teſtamentarios,</hi> to be moſt Requiſite and Convenient, giving to each of the ſaid Four a Legacy in the ſaid Inſtrument, and certain Sums for Superſtitious Uſes, adding Two other per<g ref="char:EOLhyphen"/>ſons <hi>(viz.) Francis Arthur</hi> and <hi>Bruno Bernardo de Quiros,</hi> to be joyned with the former Four, to Execute the Will which ſhould be made after his death by the ſaid Four for the Good of his Soul, which was declared his Univerſal Heir in the ſaid Inſtrument, thereby Revoking, Diſannulling and Making Void all other Wills, Codicils, Powers to make Wills, or any Diſpoſitions, which he the ſaid Sir <hi>William Godolphin</hi> might have made heretofore either by Word or Writing, or in any o<g ref="char:EOLhyphen"/>ther Form, to the end they might have no Force, nor avail in any Court of Ju<g ref="char:EOLhyphen"/>ſtice or otherwiſe, and deſiring that Power ſhould be fulfilled and executed, and the Will which ſhould be made purſuant thereunto, as his laſt and determined Will, in ſuch Form as might make it moſt available in Law. And whereas after the paſſing the ſaid Notarial Act, <hi>(viz.)</hi> about the latter end of <hi>June</hi> in the ſame year,
+<pb n="2" facs="tcp:187885:2"/>the ſaid Sir <hi>William Godolphin</hi> propoſing to make his Laſt Will Nuncupative or Te<g ref="char:EOLhyphen"/>ſtamentary Diſpoſition, did then declare ſeveral Legacies he would give to cer<g ref="char:EOLhyphen"/>tain of his Relations in <hi>England,</hi> which Legacies were by his order ſet down in W iting, and Read to, and Acknowledged by him to be his Laſt Will, and which has been ſince proved by the Oaths of Three Witneſſes, Sworn by Commiſſion out of the Prerogative Court of <hi>Canterbury,</hi> and Adminiſtration of all the Goods of the ſaid Sir <hi>William Godolphin</hi> granted to the Two Principal Legatees, <hi>viz. Francis Godolphin</hi> and <hi>Elizabeth</hi> Wife of <hi>Charles Godolphin</hi> (being alſo the only ſurviving perſons next of Kin, in equal degree to the ſaid Sir <hi>William Godolphin</hi>) with the ſaid Teſtamentary Diſpoſition annexed in the Words following: <hi>(viz.) Memo<g ref="char:EOLhyphen"/>randum,</hi> That in or about the latter end of <hi>June</hi> or beginning of <hi>July,</hi> in the year of our Lord, One thouſand ſix hundred ninety ſix, Sir <hi>William Godolphin</hi> Kt. then reſiding at <hi>Madrid</hi> in the Kingdom of <hi>Spain,</hi> and in the place of his uſual ha<g ref="char:EOLhyphen"/>bitation there, being then ſick of the ſickneſs whereof he Died, but being of ſound and perfect Memory, having an Intent to declare and make his Laſt Will Nuncupative or Teſtamentary Diſpoſition, did order and direct <hi>Don Anto<g ref="char:EOLhyphen"/>nio Cendoya</hi> to put down in Writing theſe following Legacies to be the Gifts, Le<g ref="char:EOLhyphen"/>gacies and Bequeſts of him the ſaid Sir <hi>William Godolphin,</hi> in that his laſt Will; and the ſaid Sums of Money and Legacies were accordingly wrote down, at the Will and Requeſt of Sir <hi>William Godolphin</hi> by the aboveſaid <hi>Don Antonio Cendoya,</hi> and afterwards the ſaid Writing, which contained and Specified the ſeveral Gifts and Legacies following, was Read to the ſaid Sir <hi>William Godol<g ref="char:EOLhyphen"/>phin,</hi> and Approved and Declared by him to be his Laſt Will; the which Gifts, Legacies and Bequeſts above mentioned, which Sir <hi>William Godolphin</hi> owned to be his Laſt Will, are as follows, <hi>(viz.) Imprimis</hi> he Gave and Bequeath<g ref="char:EOLhyphen"/>ed to his Nephew <hi>Francis Godolphin</hi> Eſquire, all his Lands in <hi>England,</hi> and alſo to his ſaid Nephew <hi>Francis Godolphin</hi> Seven thouſand Pounds <hi>Sterling,</hi> beſides to each of his Four Children, <hi>viz.</hi> One Son and Three Daughters, One thouſand Pounds <hi>Sterling:</hi> Alſo he gave to his Neece Miſtreſs <hi>Elizabeth Godolphin,</hi> Wife to the Honourable <hi>Charles Godolphin</hi> Eſquire, Four thouſand Pounds <hi>Sterling,</hi> and likewiſe to the ſaid <hi>Charles Godolphin</hi> her Husband, One thouſand Pounds <hi>Sterling;</hi> and to his Uncle Maſter <hi>Francis Bluet</hi> Two hundred Pounds <hi>Sterling.</hi> All which Laſt Will, Gifts and Bequeſts were Wrote down and Read to the ſaid Sir <hi>William Godolphin</hi> in the <hi>Spaniſh</hi> Tongue, and were Approved, Agreed unto, and Owned by him as his Laſt Will in the <hi>Spaniſh</hi> Tongue; likewiſe in the Preſence of us who were deſired to take Notice thereof: All which we Teſtifie upon Oath, Witneſs our Hands this Eighteenth day of <hi>September</hi> (New Stile) <hi>Anno Domini,</hi> One thouſand ſix hundred ninety ſix, <hi>Thomas Gray, John March, Lewis Cavelero;</hi> Sworn, Signed and Executed in Preſence of us <hi>William Thomas, Jezreel Jones, Samuel Allſton.</hi> And whereas according to the Laws of this Realm, no Man can give Power or Authority to another, to make his Will for him after his Death; And if it were otherwiſe, the Eſtates of ſuch of His Majeſties Subjects, who-ſhould happen to dye beyond the Seas, would run great Hazard of being Alienated from the right Heirs and Relations of the ſaid Perſons, under Co<g ref="char:EOLhyphen"/>lour of ſuch delegated Authority; and yet nevertheleſs foraſmuch as ſome Per<g ref="char:EOLhyphen"/>ſons who have been Truſted in the Management of the ſaid Sir <hi>William Godol<g ref="char:EOLhyphen"/>phin</hi>'s Eſtate in <hi>England,</hi> have with ſeveral others Imployed therein beyond the Seas, uſed great endeavours to ſet up the ſaid Notarial Act, and a Pretended Will or Diſpoſition, made, or ſuppoſed to be made after the ſaid Sir <hi>William Godolphin</hi>'s Death, under Colour of the ſame. And whereas by ſuch Pretext, the Le<g ref="char:EOLhyphen"/>gal Adminiſtrators of the ſaid Sir <hi>William Godolphin</hi> have been hitherto delayed, and hindred in Recovering his Eſtate, whereby to diſcharge the ſeveral Legacies in the ſaid Teſtamentary Diſpoſition, as well as to Poſſeſs themſelves of the Reſiduary Part, which being not otherwiſe diſpoſed of by the ſaid Sir <hi>William</hi> in his Life time, of Right belongs to them as next of Kin. For Remedy therefore in the Premiſſes, may it pleaſe Your moſt Excellent Majeſty, that it may be Enacted and Declared: And be it Enacted and Declared by the Kings moſt Excellent Majeſty, <note place="margin">☞</note> by and with the Advice and Conſent of the Lords Spiritual and Temporal, and the Commons in this preſent Parliament Aſſembled, and by the Authority of the ſame, That the Clauſes in the ſaid Notarial Act of the Thirtieth of <hi>March,</hi> One thouſand ſix hundred ninety ſix, whereby any Powers or Authorities are pretended to be given to the perſons in the ſaid Notarial Act Named, or any of them, or any others, to make the ſaid Sir <hi>William Godolphin</hi>'s Will after his Death are Null and Void, and ſhall be Deemed and Taken to be Void and of none Effect; And that the other Clauſes in the ſame Notarial Act mentioned, whereby the ſaid Sir <hi>William Godolphin</hi> Declares his Soul his Univerſal Heir, are likewiſe Null, Void and of none Effect in Law. And be it further Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That all Wills, Codicils, Powers to make Wills, and Diſpoſitions in any
+<pb n="3" facs="tcp:187885:2"/>manner made or declared by the ſaid Sir <hi>William Godolphin,</hi> before the making the ſaid Notarial Act of the Thirtieth of <hi>March,</hi> One thouſand ſix hundred ninety ſix (the ſame being therein ſolemnly Revoked, Diſannull'd and made Void) ſhall be, and the ſame are hereby Declared to be Revoked, Diſannulled and made Void to all Intents and Purpoſes; and that the ſaid Adminiſtration Granted to the ſaid <hi>Francis Godolphin,</hi> and <hi>Elizabeth</hi> (the Wife of the ſaid <hi>Charles Godolphin</hi>) his Siſter, of the Eſtate of the ſaid Sir <hi>William Godolphin,</hi> with the ſaid Nuncupative Will before mentioned Annexed (the ſame being ſolemnly declared by him ſome few days be<g ref="char:EOLhyphen"/>fore his Death, in the preſence of three Credible Witneſſes, who were duly Sworn by Commiſſion out of the Prerogative Court of <hi>Canterbury</hi>) is well Granted, and ſhall be deemed and taken to be good and effectual in the Law, to all intents and purpoſes whatſoever, in all Courts of Law and Equity, the ſaid Notarial Act of the Thirtieth of <hi>March,</hi> One thouſand ſix hundred ninety ſix, or any Powers Death, or any former or other Will, or pretended Power to make a Will, Made, Given, Granted or Declared by the ſaid Sir <hi>William Godolphin,</hi> before the ma<g ref="char:EOLhyphen"/>king the ſaid Notarial Act, in any wiſe notwithſtanding.</p>
+            <p>And it is Declared, That nothing in this Act contained, ſhall be Conſtrued to make void the Specifical Legacies, in and by the ſaid Notarial Act Given to the ſaid <hi>Don Mathias de Eſcolar, Geronimo Guerrero, Don Balthaſar de Cabredo, Don Antonio de Cendoya, Francis Arthur,</hi> and <hi>Bruno Bernardo de Quiros,</hi> but that ſuch Legacies, with any other Sums ſpecially mentioned therein, ſhall remain a Charge on the E<g ref="char:EOLhyphen"/>ſtate of the ſaid Sir <hi>William Godolphin,</hi> to be Paid out of the ſame, ſo as and pro<g ref="char:EOLhyphen"/>vided that the ſaid <hi>Don Mathias de Eſcolar, Geronimo Guerrero, Don Balthaſar de Cabredo, Don Antonio de Cendoya, Francis Arthur,</hi> and <hi>Bruno Bernardo de Quiros,</hi> or ſome of them, do Account unto the ſaid <hi>Francis Godolphin,</hi> and <hi>Elizabeth</hi> the Wife of the ſaid <hi>Charles Godolphin,</hi> the ſaid Adminiſtrators for the Eſtate of the ſaid Sir <hi>William Godolphin,</hi> in the ſaid Kingdom of <hi>Spain,</hi> or other places beyond the Seas, and Pay the ſame as they the ſaid Adminiſtrators ſhall direct.</p>
+            <p>And whereas it doth appear, <note place="margin">☜</note> That the ſaid Sir <hi>William Godolphin</hi> did by a Wri<g ref="char:EOLhyphen"/>ting before his going out of <hi>England,</hi> Solemnly declare his Intention of lea<g ref="char:EOLhyphen"/>ving Three thouſand Pound <hi>Sterling,</hi> to and for the Education and Maintenance of Poor Scholars, the Relief of Decayed Virtuous Gentlemen, the Redemption of Priſoners, the placing out Poor Children to Trades, or other ſuch like Pious and Charitable uſes, under the direction of certain Perſons named in the ſaid Writing, (who are all ſince Dead) and did alſo expreſs his Intention of giving to the Poor of the Town of <hi>Camilford,</hi> in the County of <hi>Cornwall,</hi> the Sum of Twen<g ref="char:EOLhyphen"/>ty Pounds, to the Poor of the Town of <hi>Liskerd,</hi> in the ſaid County, Ten Pounds, and to the Poor of the Pariſh of St. <hi>Mabin,</hi> in the ſaid County alſo, Ten Pounds; Now to the end the ſaid Pious and good Intentions may not be Fruſtrated, Be it further Enacted by the Authority aforeſaid, That the Adminiſtra<g ref="char:EOLhyphen"/>tors of the ſaid Sir <hi>William Godolphin</hi> do enter into ſeveral Recognizances in the High Court of Chancery, at the time when the Eſtate of the ſaid Sir <hi>William Godolphin</hi> now in that Court, ſhall be delivered up to them, to ſecure the Payment of the ſaid Three thouſand and fourty Pounds, in manner following, (That is to ſay) the ſaid <hi>Francis Godolphin</hi> one of the Adminiſtrators in one Recognizance, to ſecure the Payment of one Moiety thereof, or Fifteen hundred and twenty Pounds, and the ſaid <hi>Charles Godolphin</hi> on behalf of his Wife <hi>Elizabeth,</hi> the other Adminiſtrator, in another Recognizance, to ſecure the like Sum of Fifteen hundred and twenty Pounds, being the other Moiety; which ſaid Sums ſhall be taken out of ſuch part of the Eſtate of the ſaid Sir <hi>William Godolphin,</hi> now beyond the Seas, as ſhall firſt come to the hands of the ſaid Adminiſtrators, after the Charge deducted for recovering the ſame; and in caſe ſo much ſhall not be recove<g ref="char:EOLhyphen"/>red of the Eſtate beyond the Seas, within the ſpace of three years, the compli<g ref="char:EOLhyphen"/>ment of the ſaid Sum, ſhall be made up by the ſaid Adminiſtrators, out of the Re<g ref="char:EOLhyphen"/>ſidue of the ſaid Sir <hi>William Godolphins</hi> Eſtate in <hi>England,</hi> if any ſuch there be, after juſt demands Paid, and Legacies given in the ſaid Nuncupative Will ſatisfi<g ref="char:EOLhyphen"/>ed; and the ſaid ſeveral Sums of Fifteen hundred and twenty Pounds ſeverally Secured by the ſaid Adminiſtrators, ſhall be by them proportionably (that is to ſay) by each of them for his part, reſpectively Applied to ſuch Pious and Charita<g ref="char:EOLhyphen"/>ble uſes, as are before particularly ſpecified and mentioned; and the ſaid Recog<g ref="char:EOLhyphen"/>nizances or either of them, ſhall not be Diſcharged, without a Certificate from the Lord Arch-Biſhop of <hi>Canterbury,</hi> or the Lord High Chancellor of <hi>England,</hi> or the Lord Keeper of the Great Seal, or one of them now or for the time being, that the Sum of Fifteen hundred and twenty Pounds, Secured by ſuch Recognizance ap<g ref="char:EOLhyphen"/>pears to have been applyed, veſted, or diſpoſed for ſuch Pious and Charitable uſes, as may anſwer the Intention of the Donor, to the ſatisfaction of the ſaid Lord Arch-Biſhop, or Lord Chancellor, or Lord Keeper of the Great Seal for the time being.</p>
+            <pb n="4" facs="tcp:187885:3"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note, </seg>
+               </label> Provided always, and be it further Enacted by the Authority aforeſaid, That ſuch and ſo much of the Perſonal Eſtate of the ſaid Sir <hi>William Godolphin,</hi> now in the Court of Chancery, as ſhall be ſufficient to pay the Legacies of Sixteen thouſand two hundred Pounds, Given and Deviſed by the ſaid Nuncupative Will, ſhall be immediately Applyed to the Payment thereof, and of ſuch juſt Demands incident to the Account of the ſame, as ſhall be Allowed in the Court of Chan<g ref="char:EOLhyphen"/>cery; and that the Reſidue of the ſaid Sir <hi>William Godolphin</hi>'s Perſonal Eſtate, in the ſaid Court or elſewhere in <hi>England,</hi> after ſuch Legacies and juſt Demands incident to the Account of the ſame, as is aforeſaid, and the other Proviſion of the Three thouſand and fourty Pounds for Charities made by this preſent Act are paid, ſhall go and be applied to and for the anſwering and paying ſuch other Legacies and Bequeſts, other than ſuch as are for any Superſtitious uſe, as ſhall appear to be given or deviſed by the ſaid Sir <hi>William Godolphin,</hi> to be paid out of his perſonal Eſtate in <hi>England,</hi> by any Writing under his Hand, after the Tenth day of <hi>March,</hi> One Thouſand ſix hundred ninety five according to the Stile of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> Teſtified by Two Credible Witneſſes, or by any Nuncupative Will reduced into Writing by the direction of the ſaid Sir <hi>William Godolphin</hi> after the ſaid Tenth day of <hi>March,</hi> ſo as the ſame be made appear before the Four and twentieth day of <hi>June,</hi> 
+               <note place="margin">☞</note> which ſhall be in the Year, One Thouſand ſix hundred ninety nine, unleſs prevented or delayed by the means of the Adminiſtrators, or either of them, and if no ſuch other Legacies or Bequeſts ſhall be made appear before the ſaid Four and twentieth day of <hi>June,</hi> which ſhall be in the ſaid year, One thouſand ſix hundred ninety nine, to be given by the ſaid Sir <hi>William Godolphin,</hi> and to be paid in ſuch manner, as aforeſaid, then the reſidue of the Perſonal Eſtate of the ſaid Sir <hi>William Godolphin,</hi> or ſo much thereof as ſhall remain after ſuch Legacies ſatisfied (if any ſuch be made to appear) ſhall be to the ſaid Ad<g ref="char:EOLhyphen"/>miniſtrators, to be diſtributed according to the Laws in that behalf.</p>
+            <p>Provided always, That in caſe any Legacies ſhall be proved to be given by the ſaid Sir <hi>William Godolphin</hi> after the ſaid Tenth day of <hi>March,</hi> One thouſand ſix hundred ninety five, to Charitable Uſes in <hi>England,</hi> That then the Three thou<g ref="char:EOLhyphen"/>ſand and fourty Pounds aforementioned, ſhall be applied for ſatisfaction of the ſame, and the reſidue, if any be, of the ſaid Three thouſand and fourty Pounds, after ſuch Legacies for any Charitable uſes are ſatisfied, ſhall be applied to and for ſuch Charities as are herein before appointed; And in caſe the ſaid Three thou<g ref="char:EOLhyphen"/>ſand and fourty Pounds, ſhall not be ſufficient to ſatisfie and pay the ſaid Lega<g ref="char:EOLhyphen"/>cies for Charitable Uſes, Then and in ſuch Caſe ſo much as the ſaid Three thou<g ref="char:EOLhyphen"/>ſand and fourty Pounds ſhall fall ſhort of anſwering the ſaid Legacies for Chari<g ref="char:EOLhyphen"/>table Uſes, ſhall be paid out of the Reſidue of the ſaid Sir <hi>William Godolphins</hi> Perſonal Eſtate in <hi>England,</hi> that ſhall remain after the ſeveral Legacies, Bequeſts and Demands thereout before mentioned are ſatisfied; and ſo much of the ſaid Sum of Three thouſand and fourty Pounds as ſhall be applied to and for the ſa<g ref="char:EOLhyphen"/>tisfaction of the ſaid Legacies for Charitable Uſes in <hi>England,</hi> ſhall be Taken and Deemed to be well applied, and the Recognizances herein before appointed to be given for the ſame, as to ſo much as ſhall be ſo applied ſhall be diſcharged; Any thing herein before contained to the contrary thereof in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <closer>
+               <signed>
+                  <hi>Matth. Johnſon,</hi> Cler<g ref="char:abbrapo">’</g> Parliamentor<g ref="char:abbrapo">’</g>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>9<hi rend="sup">o</hi> April Anno</hi> 1698.</date> 
+                  <hi>Concordat cum Recordo &amp;</hi>
+               </dateline>
+               <signed>Examinat<g ref="char:abbrapo">’</g> per me, Tho. Harvey.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd; Printers to the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty. 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
